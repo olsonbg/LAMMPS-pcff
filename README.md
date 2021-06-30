@@ -1,4 +1,4 @@
-How to Create a LAMMPS Data file from a PCFF file
+Create a LAMMPS Data file using the class2 PCFF force field
 =====
 
 This documents aims to explain how to use the [pcff.frc](pcff.frc) force
