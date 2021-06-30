@@ -305,10 +305,10 @@ Acceptable ordering in `pcff.frc` for forcefield of i-j-k:
 
 | Value | Order            |
 | :---  | :---             |
-| 1st   | any of, ijk, kji |
-| 2nd   | any of, ijk, kji |
-| 3rd   | any of, ijk, kji |
-| 4th   | any of, ijk, kji |
+| 1st   | any of: ijk, kji |
+| 2nd   | any of: ijk, kji |
+| 3rd   | any of: ijk, kji |
+| 4th   | any of: ijk, kji |
 
 | i    | j    | k    | 1st  | 2nd  | 3rd  | 4th  |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: |
