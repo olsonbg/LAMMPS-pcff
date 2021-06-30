@@ -273,11 +273,11 @@ Acceptable ordering in `pcff.frc` for forcefield of i-j:
 
 |  i |  j | 1st | 2nd | 3rd | 4th |
 |:---|:---|----:|----:|----:|----:|
-| c2 | hc | [1.1010](pcff.frc#1667) | [345.0000](pcff.frc#1667) | [-691.8900](pcff.frc#1667) | [844.6000](pcff.frc#1667) |
-| c2 | c  | [1.5300](pcff.frc#1657) | [300.6700](pcff.frc#1657) | [-501.7700](pcff.frc#1657)| [679.8100](pcff.frc#1657)|
-| c  | c3 | [1.5300](pcff.frc#1657)| [299.6700](pcff.frc#1657)| [-501.7700](pcff.frc#1657)| [679.8100](pcff.frc#1657)|
-| c3 | hc | [1.1010](pcff.frc#1667)| [345.0000](pcff.frc#1667)| [-691.8900](pcff.frc#1667)| [844.6000](pcff.frc#1667)|
-| c  | hc | [1.1010](pcff.frc#1667)| [345.0000](pcff.frc#1667)| [-691.8900](pcff.frc#1667)| [844.6000](pcff.frc#1667)|
+| c2 | hc | [1.1010](pcff.frc#L1667) | [345.0000](pcff.frc#L1667) | [-691.8900](pcff.frc#L1667) | [844.6000](pcff.frc#L1667) |
+| c2 | c  | [1.5300](pcff.frc#L1657) | [300.6700](pcff.frc#L1657) | [-501.7700](pcff.frc#L1657)| [679.8100](pcff.frc#L1657)|
+| c  | c3 | [1.5300](pcff.frc#L1657)| [299.6700](pcff.frc#L1657)| [-501.7700](pcff.frc#L1657)| [679.8100](pcff.frc#L1657)|
+| c3 | hc | [1.1010](pcff.frc#L1667)| [345.0000](pcff.frc#L1667)| [-691.8900](pcff.frc#L1667)| [844.6000](pcff.frc#L1667)|
+| c  | hc | [1.1010](pcff.frc#L1667)| [345.0000](pcff.frc#L1667)| [-691.8900](pcff.frc#L1667)| [844.6000](pcff.frc#L1667)|
 
 ### Example LAMMPS Datafile Section
 
